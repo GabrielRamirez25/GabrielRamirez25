@@ -1,4 +1,4 @@
-# Olá, eu sou o Gabriel Ramirez 👋 (@gramirez)
+# Olá, eu sou o Gabriel Ramirez 👋 (@gabrielramirez25)
 
 ### 🚀 Desenvolvedor Full Stack em formação | ADS 3º Semestre
 Sou um desenvolvedor apaixonado por transformar processos de negócios em soluções digitais eficientes. Atualmente, foco na criação de sistemas de gestão (WMS/Financeiro) e na implementação de inteligência artificial local.

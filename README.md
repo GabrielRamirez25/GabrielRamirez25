@@ -18,7 +18,6 @@ Sou um desenvolvedor apaixonado por transformar processos de negócios em soluç
 ### 📂 Portfólio de Projetos em Destaque
 
 * **📦 Solid WMS:** Sistema robusto para gestão de armazéns, controle de estoque e otimização logística (PHP/Node.js/SQL).
-* **💼 RHUB:** Plataforma de gestão financeira e administrativa com foco em dashboards de indicadores.
 * **📱 SGI-Refrio:** Aplicativo mobile desenvolvido em React Native para suporte operacional em campo.
 
 ---

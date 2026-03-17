@@ -20,6 +20,9 @@ Sou um desenvolvedor apaixonado por transformar processos de negócios em soluç
 * **📦 Solid WMS:** Sistema robusto para gestão de armazéns, controle de estoque e otimização logística (PHP/Node.js/SQL).
 * **📱 SGI-Refrio:** Aplicativo mobile desenvolvido em React Native para suporte operacional em campo.
 
+> [!IMPORTANT]
+> **Nota sobre os repositórios:** Por conterem regras de negócio sensíveis e integrações privadas, os códigos-fonte destes projetos não estão públicos. No entanto, estou totalmente à disposição para realizar uma **demonstração técnica detalhada** (Live Demo) do funcionamento e da arquitetura do código durante entrevistas.
+
 ---
 
 ### 📈 Sobre mim
